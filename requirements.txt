@@ -1,3 +1,4 @@
 opencv_contrib_python
 streamlit==0.72.0
 numpy==1.19.4
+flask
